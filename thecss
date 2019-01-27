@@ -1,0 +1,96 @@
+    body {
+        font-family:arial;
+        font-size:12px;
+        
+    }
+    
+    .intro {
+        text-align:center;
+        width:700px;
+        left:1000px;
+    }
+    
+    .selections {
+        left:50px;
+        top:400px;
+        width:300px;
+    }
+    
+    
+    .face {
+        position:absolute;
+        width:500px;
+        right:50px;
+        top:20px;
+    }
+     
+     
+    .jaws {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:1;
+        width:500px;
+    }
+    
+    .jaw {
+        display:none;
+    }
+    
+    .eyes {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:2;
+        width:500px;
+    }
+    
+    .eye {
+        display:none;
+    }
+    
+    .brows {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:2;
+    }
+    
+    .brow {
+        display:none;
+    }
+    
+    .ears {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:0;
+        width:500px;
+    }
+    
+    .ear {
+        display:none;
+    }
+    
+    .lips {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:2;
+        width:500px;
+    }
+    
+    .lip {
+        display:none;
+    }
+    .noses {
+        position:absolute;
+        right:400px;
+        top:0px;
+        z-index:2;
+        width:500px;
+    }
+    
+    .nose {
+        display:none;
+    }
